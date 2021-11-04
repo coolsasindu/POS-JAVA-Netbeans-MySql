@@ -11,21 +11,7 @@ In This java tutorial, we will see how to Design a login and REGISTER form and C
 - NetBeans Editor:  https://netbeans.apache.org/download/...
 - MySQL Database/ PhpMyAdmin.  :https://www.wampserver.com/en/
 
------------------------------------ TABLE OF CONTENT -----------------------------------
 
-▶ 00:00 Create DataBase
-▶ 00:50 Create Java Application Login
-▶ 01:10 Design Login Form
-▶ 02:17 Create db Class
-▶ 04:33 Coding to Login Button
-▶ 07:55 Design Register Form
-▶ 12:30 Register Button Code
-▶ 19:00 1st tips Pass   UserName to Home Screen
-▶ 22:00 2nd tips Check Two password is matched
-▶ 24:40 Final text
-
-
----------------------------------------------------------------------------------------
 ⭐️ Want to learn more from me? Check out these links:
 
 ►  🔵 Java POS System Playlist With Free Src Code: https://bit.ly/3avhpv8 
