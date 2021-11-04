@@ -4,7 +4,6 @@ POS (ponit of sale Project ) -step by step coding for beginners-JAVA-Netbeans-My
 -----------------------------------------------------------------------------------------------------------------
 |               🔥       Don't Click This Link: https://bit.ly/3v8PLxm                        |
 -----------------------------------------------------------------------------------------------------------------
-In This java tutorial, we will see how to Design a login and REGISTER form and Connect These Two Forms With MySQL Database.
 
  We  Use :
 - Java Programming Language: https://java.com/en/
