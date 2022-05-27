@@ -42,12 +42,11 @@ POS (ponit of sale Project ) -step by step coding for beginners-JAVA-Netbeans-My
 
 😍 FOLLOW ME ON 
 
-   🌈 INSTAGRAM : https://www.instagram.com/tech_inbox/
-   🐦 Twitter:https://twitter.com/tech_inbox
-   😊 Facebook: https://www.facebook.com/javafreecode/
-   📚  Blog: http://www.ezcod.blogspot.com
+   
    📬  MAILBOX  : techinboxyt@gmail.com
-
+   
+    [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G5CX5PY)
+    
 ✌🏽 Also, follow me on Github for some FreeCode https://github.com/coolsasindu ✌🏽
 
 👻 Use :
