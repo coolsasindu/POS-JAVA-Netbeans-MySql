@@ -44,7 +44,7 @@ POS (ponit of sale Project ) -step by step coding for beginners-JAVA-Netbeans-My
 
    
    📬  MAILBOX  : techinboxyt@gmail.com
-  ```html 
+  ```javascript 
  <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'G2G5CX5PY');kofiwidget2.draw();</script>    
  ```
  
