@@ -1,5 +1,5 @@
 # POS-JAVA-Netbeans-MySql
-POS (ponit of sale Project ) -step by step coding for beginners-JAVA-Netbeans-MySql
+POS (ponit of sale Project ) -step by step coding for beginners-JAVA-Netbeans-MySql   [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G5CX5PY)
 
 -----------------------------------------------------------------------------------------------------------------
 |               🔥       Don't Click This Link: https://bit.ly/3v8PLxm                        |
@@ -42,12 +42,6 @@ POS (ponit of sale Project ) -step by step coding for beginners-JAVA-Netbeans-My
 
 😍 FOLLOW ME ON 
 
-   
-   📬  MAILBOX  : techinboxyt@gmail.com
-   
-<a https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'G2G5CX5PY');kofiwidget2.draw(); />
-
- 
 ✌🏽 Also, follow me on Github for some FreeCode https://github.com/coolsasindu ✌🏽
 
 👻 Use :
@@ -55,4 +49,4 @@ Wamp server : www.wampserver.com/en/
 MySQL Saver : https://dev.mysql.com/downloads/mysql/
 mysql connector java : https://www.mysql.com/products/connec...
 
-✨🥤 CHEARS!  Thanks For Watching This Tutorial  ✨
+✨🥤 CHEARS!  Thanks For Watching This Tutorial  ✨ [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G5CX5PY)
